@@ -9,7 +9,7 @@ export default function About() {
         <Header title= 'About Me'/> (//about me bisa diganti ama apa aj, itu adalah reusable component)
         <div className='grid gap-4 items-center md:[grid-template-columns:1fr_1.5fr]'>
           <div>
-            <Image src='/Image/about-image.jpg'alt='about-image'width={500}height={500} className='aspect-auto object-cover rounded-lg'/>
+            <Image src='/image/about-image.jpg'alt='about-image'width={500}height={500} className='aspect-auto object-cover rounded-lg'/>
           </div>
           <div className='md:text-xl text-neutral-600 dark:text-neutral-300'>
             <p className='mb-3'>
