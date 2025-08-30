@@ -10,13 +10,25 @@ import { AnimatedTestimonials } from './ui/animated-testimonials'
       src: "/image/testimonials-image/adil.jpg",
     },
     {
-      name:"Konstan Aftop",
+      name:"Icikbos Waru",
       designation: "Undergraduate In Meteorology at ITB",
       quote: "Icikbos",
       src: "/image/testimonials-image/waru.jpg",
     },
     {
       name:"Opall",
+      designation: "Undergraduate In Meteorology at ITB",
+      quote: "Keoss",
+      src: "/image/testimonials-image/opal.jpg",
+    },
+    {
+      name:"Iba",
+      designation: "Undergraduate In Meteorology at ITB",
+      quote: "Keoss",
+      src: "/image/testimonials-image/opal.jpg",
+    },
+    {
+      name:"Tatuy",
       designation: "Undergraduate In Meteorology at ITB",
       quote: "Keoss",
       src: "/image/testimonials-image/opal.jpg",
