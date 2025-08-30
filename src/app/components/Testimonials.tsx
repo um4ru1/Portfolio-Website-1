@@ -24,13 +24,13 @@ import { AnimatedTestimonials } from './ui/animated-testimonials'
     {
       name:"Iba",
       designation: "Undergraduate In Meteorology at ITB",
-      quote: "Keoss",
+      quote: "nu pang hade na",
       src: "/image/testimonials-image/opal.jpg",
     },
     {
       name:"Tatuy",
       designation: "Undergraduate In Meteorology at ITB",
-      quote: "Keoss",
+      quote: "good",
       src: "/image/testimonials-image/opal.jpg",
     },
   ];
